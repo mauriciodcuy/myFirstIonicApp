@@ -1,0 +1,16 @@
+2014-08-05 16:54:42.687 myFirstIonicApp[19286:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-05 16:54:42.707 myFirstIonicApp[19286:70b] Unlimited access to network resources
+2014-08-05 16:54:42.843 myFirstIonicApp[19286:70b] [CDVTimer][keyboard] 0.083983ms
+2014-08-05 16:54:42.844 myFirstIonicApp[19286:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-05 16:54:42.845 myFirstIonicApp[19286:70b] [CDVTimer][statusbar] 0.474036ms
+2014-08-05 16:54:42.845 myFirstIonicApp[19286:70b] [CDVTimer][TotalPluginStartup] 1.941979ms
+2014-08-05 16:54:42.941 myFirstIonicApp[19286:70b] Resetting plugins due to page load.
+2014-08-05 16:54:43.099 myFirstIonicApp[19286:70b] Finished load of: file:///Users/ShadowMac/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0CF233A-C840-4432-93B8-1F43675862C6/myFirstIonicApp.app/www/index.html#/tab/dash
+2014-08-05 17:07:12.460 myFirstIonicApp[19540:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-05 17:07:12.466 myFirstIonicApp[19540:70b] Unlimited access to network resources
+2014-08-05 17:07:12.480 myFirstIonicApp[19540:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-05 17:07:12.480 myFirstIonicApp[19540:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-05 17:07:12.481 myFirstIonicApp[19540:70b] [CDVTimer][statusbar] 0.472009ms
+2014-08-05 17:07:12.481 myFirstIonicApp[19540:70b] [CDVTimer][TotalPluginStartup] 1.444995ms
+2014-08-05 17:07:12.512 myFirstIonicApp[19540:70b] Resetting plugins due to page load.
+2014-08-05 17:07:12.609 myFirstIonicApp[19540:70b] Finished load of: file:///Users/ShadowMac/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0CF233A-C840-4432-93B8-1F43675862C6/myFirstIonicApp.app/www/index.html#/tab/dash
